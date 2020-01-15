@@ -2,6 +2,8 @@
 
 Ao capturar dados em um site deve-se certificar que:
 
-*O conteúdo capturado não possui direitos autorais, 
-*O scraping não onera o serviço do site, e 
-*O scraper não viola os termos de uso do site e nem coleta informações sensíveis.
+*O conteÃºdo capturado nÃ£o possui direitos autorais, 
+*O scraping nÃ£o onera o serviÃ§o do site, e 
+*O scraper nÃ£o viola os termos de uso do site e nem coleta informaÃ§Ãµes sensÃ­veis.
+
+teste
